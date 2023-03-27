@@ -1,0 +1,15 @@
+[user]
+	email = greg.starr@jhuapl.edu
+	name = Greg Starr
+[core]
+	longpaths = true
+	editor = nvim
+[credential]
+	helper = manager-core
+[gui]
+	recentrepo = C:/Users/starrgw1/code/almds_prototype
+[http]
+	sslCAInfo = C:\\Users\\starrgw1\\ca-bundle.crt
+	SslVerify = False
+[diff]
+	tool = nvim
